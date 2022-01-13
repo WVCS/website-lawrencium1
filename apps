@@ -1,1 +1,25 @@
+<html>
+<head>
+ <link rel="stylesheet" href="style.css">
+        <title>Lawrence's Apps </title>
+</head>
 
+<body>
+  <ul>
+ <li><a href="index.html"> Home </a><li>
+ <li><a href="https://www.powayusd.com/en-US/Schools/HS/WVHS/HOME"> Westview Home Page </a><li>
+ <li><a href="appscreens.html"> Apps </a><li>
+ <li><a href="https://gabbyjoycui.wixsite.com/webportfolio"> Portfolio </a><li>
+        </ul>
+  
+ <br>
+ <br>
+ <br>
+ <br>
+  <center>
+  <iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/p5hrnR9lpiuRXYWduFiTHND7seabXyg1OyHg3dsnzeE/embed"></iframe>
+<iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/eOLLeo7ilXFrOnM4FOb6372ExJd6vc1iNLtakRSTNvM/embed"></iframe>
+ <iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/plfPRxZ-uik8RISZ_iVvb5AuwFzgOIDODR7SQvrvSQf/embed?nosource"></iframe>
+     </center>
+</body>
+</html>
